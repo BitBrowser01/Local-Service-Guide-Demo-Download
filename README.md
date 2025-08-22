@@ -1,5 +1,6 @@
 <p>
     <span style="font-size:22px;"><strong>Local Service Guide (Demo Download)&nbsp;</strong></span><br>
+<span style="color:hsl(0, 0%, 0%);"><strong>Learn More BitBrowser API：</strong></span><a target="_blank" rel="noopener noreferrer" href="https://doc.bitbrowser.net/api-docs/example-of-interface-request-parameters">https://doc.bitbrowser.net/</a>
     <br>
     Do you want to join the group chat? If you would like to join the [API Developers] group (for developers only; non-developers will be removed), or the [Custom Script Development] group, please click here to contact customer service, and we will arrange for you to join the group!&nbsp;<br>
     <br>
@@ -58,3 +59,5 @@
 <figure class="image">
     <img alt="1755853923594.jpg" src="https://img-website.bitbrowser.net/uploads/1755853923594_11ef0add81.jpg" srcset="https://img-website.bitbrowser.net/uploads/thumbnail_1755853923594_11ef0add81.jpg 210w, https://img-website.bitbrowser.net/uploads/small_1755853923594_11ef0add81.jpg 500w, https://img-website.bitbrowser.net/uploads/medium_1755853923594_11ef0add81.jpg 750w, https://img-website.bitbrowser.net/uploads/large_1755853923594_11ef0add81.jpg 1000w" sizes="100vw" width="1000">
 </figure>
+
+<span style="color:hsl(0, 0%, 0%);"><strong>Learn More BitBrowser API：</strong></span><a target="_blank" rel="noopener noreferrer" href="https://doc.bitbrowser.net/api-docs/example-of-interface-request-parameters">https://doc.bitbrowser.net/</a>
